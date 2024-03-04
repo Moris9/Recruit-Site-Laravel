@@ -1556,8 +1556,8 @@ header .wrap #hamburger.active span:nth-child(3) {
   margin-top: 10rem;
   width: 100%;
   display: flex;
-  justify-content: space-between;
   flex-wrap: wrap;
+  gap: 55rem;
 }
 .sec02 .content .content-item {
   width: 30%;
